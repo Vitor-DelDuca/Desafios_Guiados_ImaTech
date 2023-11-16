@@ -3,3 +3,34 @@ nav {
     background-color: rgba(29, 185, 84, 0.5);
 }
 
+body {
+    background-image: url('/img/spotify.webp'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    padding-top: 300px;
+}
+
+.btn-spotify {
+    text-transform: uppercase;
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(29, 185, 84);
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.estilo_logo {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-top: 50px;
+}
+
