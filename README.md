@@ -23,4 +23,4 @@ de usuário atraentes e responsivas, utilizando tecnologias como HTML, CSS e Jav
 
 ## Autoria:
 
-:man_technologist: [Vitor Luiz da Silva Del Duca](https://www.linkedin.com/in/vitor-del-duca-gestao-programacao-treinamento/)
+:man_technologist: [Vitor Luiz da Silva Del Duca](https://www.linkedin.com/in/vitor-del-duca)
