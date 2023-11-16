@@ -9,17 +9,17 @@ de música. O objetivo principal é desenvolver habilidades práticas na constru
 de usuário atraentes e responsivas, utilizando tecnologias como HTML, CSS e JavaScript.
  
 ## Benefícios do projeto:
-- 1. Aprendizado prático de conceitos de front-end.
-- 2. Desenvolvimento de habilidades em HTML, CSS e JavaScript.
-- 3. Experiência na construção de interfaces de usuário atraentes e responsivas.
+- Aprendizado prático de conceitos de front-end.
+- Desenvolvimento de habilidades em HTML, CSS e JavaScript.
+- Experiência na construção de interfaces de usuário atraentes e responsivas.
  
 ## Status do projeto :white_check_mark:
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Concluído&color=GREEN&style=for-the-badge)
 
 ## Tecnologias utilizadas :computer:
-- Bootstrap 5
 - HTML5
 - CSS3
+- Bootstrap 5
 
 ## Autoria:
 
